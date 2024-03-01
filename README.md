@@ -1,0 +1,9 @@
+pythonコードを実行するとバイナリ変数組が返されます。
+cost1は時間制約
+cost2は初期・目標姿勢制約
+cost3は目的関数
+cost4は積ビットの制約
+cost5は障害物に接触しないようにする制約
+をそれぞれ加えています。
+
+matlab_withobstacleとmatlab_withoutobstacleはmatlab上で軌道を可視化するために使用したコードです。angleという配列にインデックスを入力してあげると軌道が可視化できます。
