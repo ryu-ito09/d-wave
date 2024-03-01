@@ -7,11 +7,11 @@ import time
 
 start_time = time.perf_counter()
 
-# token = "DEV-205dd894227404d65f9101e7383cafaa76e38268"# 金子君
-# token = "DEV-8c2524810d4476a92f06896ccc1356fe7b395c52"# 伊藤cauliflower002@outlook.jp
-# token = "DEV-22596067d96dc6c58ca6e3a12cc653011cb4bbaf"# 7519014
-# token = "DEV-e6e2d394bdcb40aed763894cf7ec2a714b89ca7c"# 伊藤cauliflower002@outlook.jp
-# token = "DEV-5d1fa16ae77dc89d7a856eed25f0a254a6fce9e1"# 伊藤cauliflower001@outlook.jp
+# token = "DEV-205dd894227404d65f9101e7383cafaa76e38268"
+# token = "DEV-8c2524810d4476a92f06896ccc1356fe7b395c52"
+# token = "DEV-22596067d96dc6c58ca6e3a12cc653011cb4bbaf"
+# token = "DEV-e6e2d394bdcb40aed763894cf7ec2a714b89ca7c"
+# token = "DEV-5d1fa16ae77dc89d7a856eed25f0a254a6fce9e1"
 token = "DEV-e479f05871150f481f121df26ae16ad923fe45e0"
 
 
